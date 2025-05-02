@@ -55,7 +55,7 @@ This insight highlights which genres are more likely to resonate with viewers an
 The analysis shows that film popularity peaks in December, July, August, and February, likely aligning with holidays, school breaks, and seasonal viewer availability. These periods appear to be strategic windows for capturing large audiences.
 
 Conversely, January and April consistently record the lowest average popularity, potentially due to post-holiday fatigue, tighter budgets, and a lack of high-profile releases. These trends provide valuable guidance for planning release schedules to maximize visibility and engagement.
-![Popularity by month line plot](images/Average_Popularity_by_Month_lineplot.png)
+![Popularity by month line plot](Average_Popularity_by_Month_lineplot.png)
 
 ### Findings on Revenue Performance by Release Month
 May, June, July, and November emerge as the highest-grossing months for movie releases, likely driven by summer blockbusters and holiday-season audiences. These months present prime opportunities for maximizing box office returns.
