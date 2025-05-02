@@ -49,19 +49,19 @@ The **goal** of this project is to **analyze the relationship between movie rati
 The analysis reveals that multi-genre films—especially those blending comedy, documentary, fantasy, and music—consistently receive the highest average ratings. This suggests that audiences and critics are more responsive to films that offer diverse storytelling elements and emotional depth. In contrast, genres like thrillers tend to receive lower average ratings, potentially due to oversaturation or polarizing critical reception.
 
 This insight highlights which genres are more likely to resonate with viewers and can help guide strategic decisions in film production and marketing to align with audience preferences.
-![Top 20 Genres by Average Rating Barplot](images/Top_20_Genres_by_Average_Rating_barplot.png.png)
+![Top 20 Genres by Average Rating Barplot](images/Top_20_Genres_by_Average_Rating_barplote.png)
 
 ### Findings on Film Popularity by Release Month
 The analysis shows that film popularity peaks in December, July, August, and February, likely aligning with holidays, school breaks, and seasonal viewer availability. These periods appear to be strategic windows for capturing large audiences.
 
 Conversely, January and April consistently record the lowest average popularity, potentially due to post-holiday fatigue, tighter budgets, and a lack of high-profile releases. These trends provide valuable guidance for planning release schedules to maximize visibility and engagement.
-![Popularity by month line plot](images/Average_Popularity_by_Month_lineplot.png.png)
+![Popularity by month line plot](images/Average_Popularity_by_Month_lineplot.png)
 
 ### Findings on Revenue Performance by Release Month
 May, June, July, and November emerge as the highest-grossing months for movie releases, likely driven by summer blockbusters and holiday-season audiences. These months present prime opportunities for maximizing box office returns.
 
 In contrast, January, September, and October consistently produce lower revenue, suggesting these periods may be less favorable for major releases and better suited for niche or low-risk films.
-![Average worldwide Revenue by Release Month barplot](images/Average_Worldwide_Revenue_by_Release_Month_barplot.png.png)
+![Average worldwide Revenue by Release Month barplot](images/Average_Worldwide_Revenue_by_Release_Month_barplot.png)
 
 ## **Conclusion and recommendations**
 ### **Summary of findings** 
@@ -105,10 +105,10 @@ In contrast, January, September, and October consistently produce lower revenue,
 ## Repository Structure
 
 ```
+├── images 
 ├── zippedData
-├── images
 ├── .gitignore
 ├── Group_9_phase_2_Notebook.ipynb
-├── Movie profitability Analysis PDF (Presentation)
+├── Presentation.pdf
 └── README
 ```
